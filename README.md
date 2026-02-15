@@ -28,3 +28,5 @@ We use the perf_hooks (or performance.now()) API for microsecond precision. A wa
 ## Conclusion
 
 The results clearly show that maintaining consistent object shapes is crucial for high-performance JavaScript. By avoiding dynamic property injection or varied property ordering, we ensure that V8 stays on the "fast path."
+
+![Result](./results/result.png)

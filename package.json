@@ -1,0 +1,12 @@
+{
+  "name": "v8-performance-experiment",
+  "version": "1.0.0",
+  "description": "V8 Performance Experiment",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
